@@ -1,0 +1,5 @@
+train: D:/Sanjulika/Object Detection using yolo v8/data/data/train/images
+val: D:/Sanjulika/Object Detection using yolo v8/data/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
